@@ -1,3 +1,9 @@
+## Prerequis
+You need following installations :
+
+- Java 7 or java 8
+- Scala 2.11.x
+
 ## How to setup
 
 ```sh
