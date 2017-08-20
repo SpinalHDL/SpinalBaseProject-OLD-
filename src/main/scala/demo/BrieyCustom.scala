@@ -1,7 +1,7 @@
 package demo
 
 import spinal.core._
-import VexRiscv.demo._
+import vexriscv.demo._
 
 
 object Briey{
