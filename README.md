@@ -1,3 +1,10 @@
+DEPRECIATED
+
+See the following repo as a better alternative : 
+- https://github.com/SpinalHDL/SpinalTemplateSbt
+- https://github.com/SpinalHDL/SpinalTemplateSbtDependencies
+- https://github.com/SpinalHDL/SpinalWorkshop
+
 Spinal Base Project
 ============
 This repository is a base SBT project added to help non Scala/SBT native people in their first steps.
